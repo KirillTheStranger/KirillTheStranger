@@ -1,4 +1,5 @@
-### ⚡ About Me:
+## Hey 👋 I'm Kirill
+
 💻 I'm an aspiring frontend developer from Ekaterinburg, Russia<br>🏫 Currently I'm taking a course of Hexlet's Frontend Developer profession<br>🧠 I also continuously improve my professional skills, read literature and study new technologies<br>💼 I’m looking for a full-time job or paid internship
 
 ### 💻 Tech Stack:
@@ -12,9 +13,8 @@
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=faeeeee&theme=dark)](https://leetcode.com/faeeeee)<br>
 [![codewars](https://www.codewars.com/users/KirTheStranger/badges/large)](https://www.codewars.com/users/KirTheStranger)
 =====
-### 📊 GitHub Stats:
+### 🎫 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KirillTheStranger&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KirillTheStranger&theme=dark&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KirillTheStranger&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
