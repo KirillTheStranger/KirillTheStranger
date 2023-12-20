@@ -8,7 +8,6 @@
 ### 📧 Contact me via:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KirillTheStranger)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kir.chekasin@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kiryathestranger) 
 =====
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=faeeeee&theme=dark)](https://leetcode.com/faeeeee)<br>
 [![codewars](https://www.codewars.com/users/KirTheStranger/badges/large)](https://www.codewars.com/users/KirTheStranger)
